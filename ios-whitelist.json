@@ -64,7 +64,7 @@
     },
     {
       "name": "PXAccountMoneyPlugin",
-      "version": null
+      "version": "^~>\\s?0.[0-9]+"
     },
     {
       "name": "MLESCManager",
