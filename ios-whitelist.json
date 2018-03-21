@@ -1,58 +1,44 @@
 {
   "whitelist": [
     {
-      "name": "MeliSDK",
-      "version": "^~>\\s?6.[0-9]+$"
-    },
-    {
-      "name": "MLCart",
-      "version": "^~>\\s?2.[0-9]+"
-    },
-    {
-      "name": "MLRecommendations",
-      "version": "^~>\\s?4.[0-9]+"
-    },
-    {
-      "name": "MLAppRater",
-      "version": "^~>\\s?3.[0-9]+$"
-    },
-    {
-      "name": "MLImagePicker",
-      "version": "^~>\\s?0.[0-9]+$"
-    },
-    {
-      "name": "MPTopFloatingView",
-      "version": "^~>\\s?0.[0-9]+$"
-    },
-    {
       "name": "MLPlace",
-      "version": "^~>\\s?3.[0-9]+"
+      "version": "^~>\\s?1.[0-9]+$"
     },
     {
-      "name": "Firebase/AppIndexing",
-      "version": "^~>\\s?3.4.0$"
-    },
-    {
-      "name": "MLSearch/Suggestion",
+      "name": "PureLayout",
       "version": "^~>\\s?3.[0-9]+$"
     },
     {
-      "name": "CHTCollectionViewWaterfallLayout",
-      "version": "^~>\\s?0.[0-9]+$",
-      "expire": "2017-12-01"
+      "name": "MLNotifications",
+      "version": "^~>\\s?2.[0-9]+$"
     },
     {
-      "name": "MLShippingComponents",
-      "version": "^~>\\s?1.[0-9]+$",
-      "expire": "2017-12-15"
+      "name": "Bugsnag",
+      "version": "^~>\\s?5.[0-9]+$"
     },
     {
-      "name": "MLProgressCircle",
-      "version": "^~>\\s?1.[0-9]+$" 
+      "name": "MLAnalytics",
+      "version": "^~>\\s?2.[0-9]+$"
     },
     {
-      "name": "MLMultiImageView",
-      "version": "^~>\\s?1.[0-9]+$" 
+      "name": "MLReachability",
+      "version": "^~>\\s?2.[0-9]+$"
+    },
+    {
+      "name": "MLMelidata",
+      "version": "^~>\\s?0.[0-9]+$"
+    },
+    {
+      "name": "MLUI",
+      "version": "^~>\\s?3.[0-9]+$"
+    },
+    {
+      "name": "MLCommons",
+      "version": "^~>\\s?1.[0-9]+$"
+    },
+    {
+      "name": "MLNetworking",
+      "version": "^~>\\s?0.[0-9]+$"
     },
     {
       "name": "MercadoPagoSDK",
@@ -64,11 +50,7 @@
     },
     {
       "name": "PXAccountMoneyPlugin",
-      "version": "^~>\\s?2.[0-9]+"
-    },
-    {
-      "name": "MLESCManager",
-      "version": null
+      "version": "^~>\\s?0.[0-9]+"
     }
   ]
 }
